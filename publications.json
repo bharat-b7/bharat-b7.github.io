@@ -16,7 +16,7 @@
         "Angela Yao",
         "Fadime Sener"
       ],
-      "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+      "venue": "International Conference on Computer Vision (ICCV)",
       "year": 2025,
       "image": "images/streaming-videollms-for-real-time-procedural-video-understanding.png",
       "links": {
@@ -36,7 +36,7 @@
         "Siyu Tang",
         "Federica Bogo"
       ],
-      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
       "year": 2024,
       "image": "images/rohm-robust-human-motion-reconstruction-via-diffusion.jpg",
       "links": {
@@ -74,7 +74,7 @@
         "Jan Eric Lenssen",
         "Gerard Pons-Moll"
       ],
-      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
       "year": 2024,
       "image": "images/template-free-reconstruction-of-human-object-interaction-with-procedural-interaction-generation.png",
       "links": {
@@ -91,7 +91,7 @@
         "Jan Eric Lenssen",
         "Gerard Pons-Moll"
       ],
-      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
       "year": 2024,
       "image": "images/gears-local-geometry-aware-hand-object-interaction-synthesis.png",
       "links": {
@@ -129,7 +129,7 @@
         "Gerard Pons-Moll",
         "Tony Tung"
       ],
-      "venue": "ICCV",
+      "venue": "International Conference on Computer Vision (ICCV)",
       "year": 2023,
       "image": "images/nsf-neural-surface-fields-for-human-modeling-from-monocular-depth.png",
       "links": {
@@ -145,7 +145,7 @@
         "Bharat Lal Bhatnagar",
         "Gerard Pons-Moll"
       ],
-      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
       "year": 2023,
       "image": "images/visibility-aware-human-object-interaction-tracking-from-single-rgb-camera.png",
       "links": {
@@ -162,7 +162,7 @@
         "Bernt Schiele",
         "Gerard Pons-Moll"
       ],
-      "venue": "2022 International Conference on 3D Vision (3DV)",
+      "venue": "International Conference on 3D Vision (3DV)",
       "year": 2022,
       "image": "images/adjoint-rigid-transform-network-task-conditioned-alignment-of-3d-shapes.png",
       "links": {
@@ -181,7 +181,7 @@
         "Zeynep Akata",
         "Gerard Pons-Moll"
       ],
-      "venue": "2022 International Conference on 3D Vision (3DV)",
+      "venue": "International Conference on 3D Vision (3DV)",
       "year": 2022,
       "image": "images/any-shot-gin-generalizing-implicit-networks-for-reconstructing-novel-classes.png",
       "links": {
@@ -251,7 +251,7 @@
         "Christian Theobalt",
         "Gerard Pons-Moll"
       ],
-      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
       "year": 2022,
       "image": "images/behave-dataset-and-method-for-tracking-human-object-interactions.png",
       "links": {
@@ -335,7 +335,7 @@
         "Christian Theobalt",
         "Gerard Pons-Moll"
       ],
-      "venue": "IEEE International Conference on Computer Vision (ICCV)",
+      "venue": "International Conference on Computer Vision (ICCV)",
       "year": 2019,
       "image": "images/multi-garment-net-learning-to-dress-3d-people-from-images.png",
       "links": {
@@ -353,7 +353,7 @@
         "Christian Theobalt",
         "Gerard Pons-Moll"
       ],
-      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "venue": "Conference on Computer Vision and Pattern Recognition (CVPR)",
       "year": 2019,
       "image": "images/learning-to-reconstruct-people-in-clothing-from-a-single-rgb-camera.png",
       "links": {

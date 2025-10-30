@@ -4,6 +4,27 @@ document.addEventListener('DOMContentLoaded', function() {
     updateLastModified();
 });
 
+function formatAuthorName(name) {
+    if (!name) {
+        return '';
+    }
+
+    const parts = name.trim().split(/\s+/);
+
+    if (parts.length === 1) {
+        return parts[0];
+    }
+
+    const lastName = parts.pop();
+    const initials = parts
+        .map(part => part.replace(/\.$/, ''))
+        .filter(Boolean)
+        .map(part => part.charAt(0).toUpperCase() + '.')
+        .join('');
+
+    return `${initials}${lastName}`;
+}
+
 function loadNews() {
     fetch('news.json')
         .then(response => response.json())
@@ -30,7 +51,12 @@ function createNewsElement(item) {
     newsDiv.className = 'news-item';
 
     let html = '';
+    html += '<div class="news-meta">';
     html += `<span class="news-date">${item.date}</span>`;
+    if (item.tag) {
+        html += `<span class="news-badge">${item.tag}</span>`;
+    }
+    html += '</div>';
     html += `<span class="news-content">${item.content}</span>`;
 
     newsDiv.innerHTML = html;
@@ -72,7 +98,13 @@ function createPaperElement(paper) {
     html += `<div class="paper-title">${paper.title}</div>`;
 
     if (paper.authors && paper.authors.length > 0) {
-        html += `<div class="paper-authors">${paper.authors.join(', ')}</div>`;
+        const formattedAuthors = paper.authors.map(author => {
+            const formatted = formatAuthorName(author);
+            return author.toLowerCase() === 'bharat lal bhatnagar'
+                ? `<strong>${formatted}</strong>`
+                : formatted;
+        });
+        html += `<div class="paper-authors">${formattedAuthors.join(', ')}</div>`;
     }
 
     if (paper.venue) {

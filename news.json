@@ -1,6 +1,11 @@
 {
   "news": [
     {
+      "date": "Oct 2025",
+      "content": "Open internship position at Meta, Zurich on Robot-Garment interaction. See posting: <a href=\"https://www.metacareers.com/jobs/1019792683517806/?fbclid=IwY2xjawNCaZFleHRuA2FlbQIxMQABHuXM0dVYI_N9WFx-APewP88G_lQnhxICOfbfXmBBzYmt10iPXRdm3qLZp4Cs_aem_Ke4ieDagL83bpH-LfC8HOQ\" target=\"_blank\">Meta Careers</a>",
+      "tag": "NEW"
+    },
+    {
       "date": "Jun 2022",
       "content": "Started as Research Scientist at Meta, Zurich"
     },
