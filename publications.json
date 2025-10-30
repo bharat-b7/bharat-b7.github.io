@@ -1,0 +1,366 @@
+{
+  "papers": [
+    {
+      "title": "Streaming VideoLLMs for Real-Time Procedural Video Understanding",
+      "authors": [
+        "Dibyadip Chatterjee",
+        "Edoardo Remelli",
+        "Yale Song",
+        "Bugra Tekin",
+        "Abhay Mittal",
+        "Bharat Lal Bhatnagar",
+        "Necati Cihan Camg\u00f6z",
+        "Shreyas Hampali",
+        "Eric Sauser",
+        "Shugao Ma",
+        "Angela Yao",
+        "Fadime Sener"
+      ],
+      "venue": "IEEE/CVF International Conference on Computer Vision (ICCV)",
+      "year": 2025,
+      "image": "images/streaming-videollms-for-real-time-procedural-video-understanding.png",
+      "links": {
+        "paper": "https://openaccess.thecvf.com/content/ICCV2025/papers/Chatterjee_Streaming_VideoLLMs_for_Real-Time_Procedural_Video_Understanding_ICCV_2025_paper.pdf",
+        "project": "https://dibschat.github.io/ProVideLLM/",
+        "code": "https://github.com/dibschat/ProVideLLM"
+      }
+    },
+    {
+      "title": "RoHM: Robust Human Motion Reconstruction via Diffusion",
+      "authors": [
+        "Siwei Zhang",
+        "Bharat Lal Bhatnagar",
+        "Yuanlu Xu",
+        "Alexander Winkler",
+        "Petr Kadlecek",
+        "Siyu Tang",
+        "Federica Bogo"
+      ],
+      "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2024,
+      "image": "images/rohm-robust-human-motion-reconstruction-via-diffusion.jpg",
+      "links": {
+        "paper": "https://arxiv.org/abs/2401.08570",
+        "project": "https://sanweiliti.github.io/ROHM/ROHM.html",
+        "code": "https://github.com/sanweiliti/RoHM"
+      }
+    },
+    {
+      "title": "FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction",
+      "authors": [
+        "Xiaohan Zhang",
+        "Bharat Lal Bhatnagar",
+        "Sebastian Starke",
+        "Ilya A. Petrov",
+        "Vladimir Guzov",
+        "Helisa Dhamo",
+        "Eduardo P\u00e9rez Pellitero",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "International Conference on 3D Vision (3DV)",
+      "year": 2025,
+      "image": "images/force-dataset-and-method-for-intuitive-physics-guided-human-object-interaction.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2403.11237",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/force/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/force/"
+      }
+    },
+    {
+      "title": "Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation",
+      "authors": [
+        "Xianghui Xie",
+        "Bharat Lal Bhatnagar",
+        "Jan Eric Lenssen",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2024,
+      "image": "images/template-free-reconstruction-of-human-object-interaction-with-procedural-interaction-generation.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2312.07063",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/procigen-hdm/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/procigen-hdm/"
+      }
+    },
+    {
+      "title": "GEARS: Local Geometry-aware Hand-object Interaction Synthesis",
+      "authors": [
+        "Keyang Zhou",
+        "Bharat Lal Bhatnagar",
+        "Jan Eric Lenssen",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2024,
+      "image": "images/gears-local-geometry-aware-hand-object-interaction-synthesis.png",
+      "links": {
+        "paper": "http://arxiv.org/abs/2404.01758",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/gears/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/gears/"
+      }
+    },
+    {
+      "title": "GAN-Avatar: Controllable Personalized GAN-based Human Head Avatar",
+      "authors": [
+        "Berna Kabadayi",
+        "Wojciech Zielonka",
+        "Bharat Lal Bhatnagar",
+        "Gerard Pons-Moll",
+        "Justus Thies"
+      ],
+      "venue": "International Conference on 3D Vision (3DV)",
+      "year": 2024,
+      "image": "images/gan-avatar-controllable-personalized-gan-based-human-head-avatar.jpg",
+      "links": {
+        "paper": "https://arxiv.org/abs/2311.13655",
+        "project": "https://ganavatar.github.io",
+        "code": "https://ganavatar.github.io"
+      }
+    },
+    {
+      "title": "NSF: Neural Surface Fields for Human Modeling from Monocular Depth",
+      "authors": [
+        "Yuxuan Xue",
+        "Bharat Lal Bhatnagar",
+        "Riccardo Marin",
+        "Nikolaos Sarafianos",
+        "Yuanlu Xu",
+        "Gerard Pons-Moll",
+        "Tony Tung"
+      ],
+      "venue": "ICCV",
+      "year": 2023,
+      "image": "images/nsf-neural-surface-fields-for-human-modeling-from-monocular-depth.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2308.14847",
+        "project": "https://yuxuan-xue.com/nsf/",
+        "code": "https://yuxuan-xue.com/nsf/"
+      }
+    },
+    {
+      "title": "Visibility Aware Human-Object Interaction Tracking from Single RGB Camera",
+      "authors": [
+        "Xianghui Xie",
+        "Bharat Lal Bhatnagar",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2023,
+      "image": "images/visibility-aware-human-object-interaction-tracking-from-single-rgb-camera.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2303.16479",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/VisTracker/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/VisTracker/"
+      }
+    },
+    {
+      "title": "Adjoint Rigid Transform Network: Task-conditioned Alignment of 3D Shapes",
+      "authors": [
+        "Keyang Zhou",
+        "Bharat Lal Bhatnagar",
+        "Bernt Schiele",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "2022 International Conference on 3D Vision (3DV)",
+      "year": 2022,
+      "image": "images/adjoint-rigid-transform-network-task-conditioned-alignment-of-3d-shapes.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2102.01161",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/art/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/art/"
+      }
+    },
+    {
+      "title": "Any-Shot GIN: Generalizing Implicit Networks for Reconstructing Novel Classes",
+      "authors": [
+        "Yongqin Xian",
+        "Julian Chibane",
+        "Bharat Lal Bhatnagar",
+        "Bernt Schiele",
+        "Zeynep Akata",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "2022 International Conference on 3D Vision (3DV)",
+      "year": 2022,
+      "image": "images/any-shot-gin-generalizing-implicit-networks-for-reconstructing-novel-classes.png",
+      "links": {
+        "paper": "https://virtualhumans.mpi-inf.mpg.de/gin/GIN.pdf",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/gin/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/gin/"
+      }
+    },
+    {
+      "title": "CHORE: Contact, Human and Object REconstruction from a single RGB image",
+      "authors": [
+        "Xianghui Xie",
+        "Bharat Lal Bhatnagar",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2022,
+      "image": "images/chore-contact-human-and-object-reconstruction-from-a-single-rgb-image.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2204.02445",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/chore/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/chore/"
+      }
+    },
+    {
+      "title": "COUCH: Towards Controllable Human-Chair Interactions",
+      "authors": [
+        "Xiaohan Zhang",
+        "Bharat Lal Bhatnagar",
+        "Sebastian Starke",
+        "Vladimir Guzov",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2022,
+      "image": "images/couch-towards-controllable-human-chair-interactions.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2205.00541",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/couch/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/couch/"
+      }
+    },
+    {
+      "title": "TOCH: Spatio-Temporal Object-to-Hand Correspondence for Motion Refinement",
+      "authors": [
+        "Keyang Zhou",
+        "Bharat Lal Bhatnagar",
+        "Jan Eric Lenssen",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2022,
+      "image": "images/toch-spatio-temporal-object-to-hand-correspondence-for-motion-refinement.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2205.07982",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/toch/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/toch/"
+      }
+    },
+    {
+      "title": "BEHAVE: Dataset and Method for Tracking Human Object Interactions",
+      "authors": [
+        "Bharat Lal Bhatnagar",
+        "Xianghui Xie",
+        "Ilya A. Petrov",
+        "Cristian Sminchisescu",
+        "Christian Theobalt",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2022,
+      "image": "images/behave-dataset-and-method-for-tracking-human-object-interactions.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2204.06950",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/behave/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/behave/"
+      }
+    },
+    {
+      "title": "LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration",
+      "authors": [
+        "Bharat Lal Bhatnagar",
+        "Cristian Sminchisescu",
+        "Christian Theobalt",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+      "year": 2020,
+      "image": "images/loopreg-self-supervised-learning-of-implicit-surface-correspondences-pose-and-shape-for-3d-human-mesh-registration.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2010.12447",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/loopreg/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/loopreg/"
+      }
+    },
+    {
+      "title": "SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing",
+      "authors": [
+        "Garvita Tiwari",
+        "Bharat Lal Bhatnagar",
+        "Tony Tung",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2020,
+      "image": "images/sizer-dataset-and-model-for-parsing-3d-clothing-and-learning-size-sensitive-3d-clothing.jpg",
+      "links": {
+        "paper": "https://arxiv.org/abs/2007.11610",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/sizer/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/sizer/"
+      }
+    },
+    {
+      "title": "Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction",
+      "authors": [
+        "Bharat Lal Bhatnagar",
+        "Cristian Sminchisescu",
+        "Christian Theobalt",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2020,
+      "image": "images/combining-implicit-function-learning-and-parametric-models-for-3d-human-reconstruction.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2007.11432",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/ipnet/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/ipnet/"
+      }
+    },
+    {
+      "title": "Unsupervised Shape and Pose Disentanglement for 3D Meshes",
+      "authors": [
+        "Keyang Zhou",
+        "Bharat Lal Bhatnagar",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "European Conference on Computer Vision (ECCV)",
+      "year": 2020,
+      "image": "images/unsupervised-shape-and-pose-disentanglement-for-3d-meshes.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/2007.11341",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/unsup_shape_pose/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/unsup_shape_pose/"
+      }
+    },
+    {
+      "title": "Multi-Garment Net: Learning to Dress 3D People from Images",
+      "authors": [
+        "Bharat Lal Bhatnagar",
+        "Garvita Tiwari",
+        "Christian Theobalt",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "IEEE International Conference on Computer Vision (ICCV)",
+      "year": 2019,
+      "image": "images/multi-garment-net-learning-to-dress-3d-people-from-images.png",
+      "links": {
+        "paper": "https://arxiv.org/abs/1908.06903",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/mgn/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/mgn/"
+      }
+    },
+    {
+      "title": "Learning to Reconstruct People in Clothing from a Single RGB Camera",
+      "authors": [
+        "Thiemo Alldieck",
+        "Marcus Magnor",
+        "Bharat Lal Bhatnagar",
+        "Christian Theobalt",
+        "Gerard Pons-Moll"
+      ],
+      "venue": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "year": 2019,
+      "image": "images/learning-to-reconstruct-people-in-clothing-from-a-single-rgb-camera.png",
+      "links": {
+        "paper": "https://virtualhumans.mpi-inf.mpg.de/papers/alldieck19cvpr/alldieck19cvpr.pdf",
+        "project": "https://virtualhumans.mpi-inf.mpg.de/octopus/",
+        "code": "https://virtualhumans.mpi-inf.mpg.de/octopus/"
+      }
+    }
+  ]
+}
